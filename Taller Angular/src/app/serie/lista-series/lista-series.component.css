@@ -1,0 +1,14 @@
+.table {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.show-card {
+    color:  #008ac5;
+    cursor: pointer;
+}
+
+.show-card:hover {
+    color:  #015b82;
+}
+

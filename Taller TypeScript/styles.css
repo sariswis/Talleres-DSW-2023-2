@@ -1,0 +1,35 @@
+.navbar {
+    background-color: #008ac5;
+}
+
+.table, #details {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.show-card {
+    color:  #008ac5;
+    cursor: pointer;
+}
+
+.show-card:hover {
+    color:  #015b82;
+}
+
+#icon {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.navbar-brand, .navbar-brand:hover {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    color:  #ffffff;
+}
+
+.navbar-brand:hover {
+    color:  #cef0ff;
+}

@@ -1,0 +1,21 @@
+.navbar {
+    background-color: #008ac5;
+}
+
+#icon {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.navbar-brand, .navbar-brand:hover {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    color:  #ffffff;
+}
+
+.navbar-brand:hover {
+    color:  #cef0ff;
+}

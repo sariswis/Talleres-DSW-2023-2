@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Calistoga&family=Handlee&display=swap');
+
+p,label,input {
+    font-family: 'Handlee', cursive;
+    font-size: x-large;
+    text-align: justify;
+}
+
+a,h1,h2,h3,h4, .btn {
+    font-family: 'Calistoga', serif;
+}
+
+.custom-navbar, #footer, .btn, .btn:hover {
+    background-color: #830034;
+}
+
+.custom-navbar {
+    height: 4rem;
+}
+
+h1, h2, a {
+    color: #BB004A;
+}
+
+.navbar-brand, .nav-link, .btn, #footer {
+    color: white;
+}
+
+.navbar-brand {
+    font-size: x-large;
+}
+
+.nav-link {
+    font-size: large;
+}
+
+.navbar-brand:hover, .nav-link:hover, .btn:hover, #footer:hover {
+    color: #FFECA8;
+}
+
+a:hover {
+    color: #f8ca23;
+}
+
+#quien-es, #albumes, #canciones, #conoce-mas, #footer, #texto-quien-es, li, .carousel-caption {
+    padding: 1rem;
+}
+
+#logo {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+#albumes, #canciones, #conoce-mas {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+#quien-es {
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+}
+
+#footer {
+    margin-top: 1rem;
+}
+
+.card-rosa {
+    background-color: #f9d2e2;
+}
+
+.card-oro {
+    background-color: #f9f2d2;
+}
+
+.card, label, input  {
+    margin: 0.5rem;
+}
+
+.card, .carousel-caption {
+    border-radius: 1rem;
+}
+
+h1, h2, .btn {
+    margin: 1rem;
+}
+
+.carousel-caption {
+  background-image: radial-gradient(rgba(27, 27, 27, 0.8), rgba(0, 0, 0, 0));
+}
+
+
