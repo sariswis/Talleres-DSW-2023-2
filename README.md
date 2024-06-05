@@ -4,5 +4,7 @@ Este repositorio almacena los talleres de la materia Desarrollo de Software en E
 
 ## Contenido
 Taller de HTML, CSS y Bootstrap para página de interés personal
+
 Taller de TypeScript para página de series
+
 Taller de Angular para página de series
